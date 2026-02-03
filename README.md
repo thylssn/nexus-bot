@@ -1,6 +1,6 @@
 # NexusBot 🤖
 
-NexusBot é um projeto de chatbot inteligente e multifuncional, desenvolvido com Python e o framework FastAPI. Ele utiliza o poder do modelo de IA generativa `gemini-2.5-flash` da Google para fornecer respostas coesas e contextuais, tanto para texto quanto para imagens.
+NexusBot é um projeto de chatbot inteligente e multifuncional, desenvolvido com Python e o framework FastAPI na disciplina de Inteligência Artificial. Ele utiliza o poder do modelo de IA generativa `gemini-2.5-flash` da Google para fornecer respostas coesas e contextuais, tanto para texto quanto para imagens.
 
 ---
 
