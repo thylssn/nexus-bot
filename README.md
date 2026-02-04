@@ -4,15 +4,6 @@ NexusBot é um projeto de chatbot inteligente e multifuncional, desenvolvido com
 
 ---
 
-## 🌐 Teste Online (Experimental)
-
-Você também pode testar o chatbot diretamente pela web por meio do seguinte link:
-
-🔗 [Acesse o chatbot online](https://nexusbot.zapto.org/)
-
-> ⚠️ **Aviso:** Essa versão online está em fase experimental e pode não estar disponível 100% do tempo. Para melhor estabilidade, recomendamos rodar o projeto localmente conforme instruções abaixo.
-
-
 ## 🚀 Como Executar Localmente
 
 Siga estes passos para rodar o projeto na sua máquina local.
